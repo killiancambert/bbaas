@@ -10,7 +10,7 @@ Amplify.configure(awsExports);
 const theme = createMuiTheme({
   palette: {
     primary: {
-      main: '#222831'
+      main: '#f05454'
     },
     secondary: {
       main: '#616161'

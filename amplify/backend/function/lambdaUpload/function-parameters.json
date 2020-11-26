@@ -1,3 +1,17 @@
 {
-  "lambdaLayers": []
+  "lambdaLayers": [],
+  "permissions": {
+    "storage": {
+      "dynamoBbaas": [
+        "create",
+        "read",
+        "update"
+      ],
+      "s3144cc48a": [
+        "create",
+        "read",
+        "update"
+      ]
+    }
+  }
 }
