@@ -1,0 +1,7 @@
+{
+    "tableName": "dynamoBbaas",
+    "partitionKeyName": "file",
+    "partitionKeyType": "S",
+    "sortKeyName": "CognitoUser",
+    "sortKeyType": "S"
+}
